@@ -1,4 +1,4 @@
-# Hi, I'm [Sheng-Yen] 👋
+# Hi, I'm Sheng-Yen 👋
 
 Welcome to my GitHub!
 I am an HR (Human Resources Specialist) and also a BI Data Dashboard Analyst.
